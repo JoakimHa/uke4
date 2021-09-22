@@ -13,7 +13,7 @@ function show() {
     <input type="text" oninput="textInput = this.value">
     <div id="fixedText">${textOutput}</div>
     <button onclick="fixtext()">fix tekst</button>
-    <button><a href src="formateringtest.html">unitTest</a></button>
+    <button><a href src="https://joakimha.github.io/uke4/formateringtest.html">unitTest</a></button>
     `
     
 }
